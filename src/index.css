@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.player {
+  height: 50vh;
+}
+.interface {
+  padding-top: 30px;
+  height: 30vh;
+}
+.btn {
+  border: 1px solid yellow;
+  cursor: pointer;
+  font-size: 20px;
+  width: 100%;
+  padding: 10px 5px;
+  max-width: 350px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
